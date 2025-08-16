@@ -1,0 +1,13 @@
+models/
+*.pyc
+*.pyo
+*.pyd
+scripts/AlexNet_confusion_matrix.png
+scripts/ResNet50_confusion_matrix.png
+scripts/VGG16_confusion_matrix.png
+scripts/GoogLeNet_confusion_matrix.png
+scripts/train.py
+static/
+test_images/
+scripts/__pycache__/
+data/
