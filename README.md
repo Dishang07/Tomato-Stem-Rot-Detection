@@ -32,7 +32,9 @@ With the advancement of **deep learning**, we can create a **cost-effective, sca
 2. **Model**: CNN (ResNet50) trained on healthy & diseased tomato stem datasets.  
 3. **Flask Web App**: User uploads stem image → model predicts → result displayed.  
 
-![System Architecture](images\architecture.png)
+<div >
+      <img src="images\architecture.png" alt="Architecture Diagram">
+</div>
 
 ---
 
@@ -42,7 +44,9 @@ The model was trained on a **custom dataset** created from two sources:
 - **Gemini-Generated Images:** AI-generated tomato stem images were included to **expand the dataset** and **improve model generalization**.  
 
 Glimpse of the Dataset:
-![Dataset](images\img1.png)
+<div >
+  <img src="images\img1.png" alt="Dataset Images">
+</div>
 
 This combination of real-world and synthetic data provided a **diverse and balanced dataset**, enabling the model to perform reliably on unseen inputs.
 
@@ -50,7 +54,9 @@ This combination of real-world and synthetic data provided a **diverse and balan
 
 ## 🖥️ Web Application Interface
 - **Upload Page:**  
-  ![Upload Page](images\upload_page.png)  
+  <div >
+      <img src="images\upload_page.png" alt="Upload Page">
+  </div> 
 
 - **Diseased Stem Prediction Example:**  
     <div align="center">
